@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ASTRO_KNIGHT</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 
-<strong> - 🔭 I’m currently working on [Discord bot](https://github.com/Darknight7125/ASTRO)<strong>
+<strong> - 🔭 I’m currently working on Discord bot...<strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
